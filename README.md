@@ -28,9 +28,9 @@ Este repositório acompanha o progresso do meu curso de Java, focado em POO, da 
 
 ## Meus próximos passos:
 
-Aprender a representar uma lista de objetos
-Entender o funcionamento da classe ArrayList
-Manipular uma lista de objetos
-Realizar ordenação de uma lista de acordo com algum critério
-Fazer casting de objetos e verificação de tipo com instanceof
+- Aprender a representar uma lista de objetos
+- Entender o funcionamento da classe ArrayList
+- Manipular uma lista de objetos
+- Realizar ordenação de uma lista de acordo com algum critério
+- Fazer casting de objetos e verificação de tipo com instanceof
 
