@@ -1,5 +1,5 @@
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=PINK&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ## ✔️ Técnicas e tecnologias utilizadas
