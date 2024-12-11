@@ -7,10 +7,6 @@ public class Titulo implements Comparable<Titulo>{
         return nome;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
     public Titulo(String nome){
         this.nome = nome;
     }
