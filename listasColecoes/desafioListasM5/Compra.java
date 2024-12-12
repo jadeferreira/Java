@@ -1,12 +1,6 @@
 package desafioListasM5;
 
 public class Compra implements Comparable<Compra> {
-
-    @Override
-    public int compareTo(Compra outraCompra) {
-        return Double.valueOf(this.valor).compareTo(Double.valueOf(outraCompra.valor));
-    }
-
     private String descricao;
     private double valor;
 
@@ -23,6 +17,9 @@ public class Compra implements Comparable<Compra> {
         return valor;
     }
 
-
+    @Override
+    public int compareTo(Compra outraCompra) {
+        return Double.valueOf(this.valor).compareTo(Double.valueOf(outraCompra.valor));
+    }
 
 }
