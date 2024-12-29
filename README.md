@@ -4,7 +4,7 @@
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Java``
+- ``Java 21``
 - ``InteliJ IDEA``
 - ``Paradigma de orientação a objetos``
 
