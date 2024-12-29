@@ -4,7 +4,7 @@
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Java``
+- ``Java 21``
 - ``InteliJ IDEA``
 - ``Paradigma de orientação a objetos``
 
@@ -25,12 +25,17 @@ Este repositório acompanha o progresso do meu curso de Java, focado em POO, da 
 - Apliquei conceitos fundamentais de encapsulamento, herança, polimorfismo e interfaces.
 - Trabalhei com o Scanner para entrada de dados e controlar o fluxo de execução com condicionais e loops.
 - Entendi como funciona o processo de compilação e execução de uma aplicação Java, e como manipular os tipos de dados na linguagem.
+- Aprendi a representar uma lista de objetos
+- Entendi o funcionamento da classe ArrayList
+- Manipulei uma lista de objetos
+- Realizei ordenação de uma lista de acordo com algum critério
+- Fiz casting de objetos e verificação de tipo com instanceof
 
 ## Meus próximos passos:
 
-- Aprender a representar uma lista de objetos
-- Entender o funcionamento da classe ArrayList
-- Manipular uma lista de objetos
-- Realizar ordenação de uma lista de acordo com algum critério
-- Fazer casting de objetos e verificação de tipo com instanceof
+- Aprender a consumir uma API HTTP em Java
+- Entender como receber e converter informações de uma API para objetos Java
+- Manipular dados no formato JSON
+- Utilizar a biblioteca Gson para conversão de objetos Java em JSON e vice-versa
+- Fazer uso das classes do pacote java.io para manipulação de arquivos
 
