@@ -11,7 +11,5 @@ public class ConversaoJson {
         PessoaConversao pessoa = gson.fromJson(jsonPessoa, PessoaConversao.class);
         System.out.println("Objeto pessoa: " + pessoa);
 
-
-
     }
 }
