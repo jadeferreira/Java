@@ -33,6 +33,7 @@ public class PrincipalConsulta {
 
         }catch (IOException | InterruptedException e){
             System.out.println("Houve um erro na consulta a API do GitHub");
+            e.printStackTrace();
         }
         catch (ErroConsultaGitHubException e) {
             System.out.println(e.getMessage());
