@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/aplicandoPoo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/listasColecoes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/APIS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
