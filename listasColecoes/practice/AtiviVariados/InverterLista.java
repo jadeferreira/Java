@@ -1,4 +1,4 @@
-package practice;
+package practice.AtiviVariados;
 
 import java.util.ArrayList;
 import java.util.List;

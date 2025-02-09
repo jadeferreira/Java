@@ -1,4 +1,4 @@
-package practice;
+package practice.AtiviVariados;
 
 import java.util.List;
 import java.util.LinkedList;
